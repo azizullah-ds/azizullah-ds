@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I'm Aziz Ullah 👋
 
 ### Software Engineering Student | Aspiring AI Engineer & Data Scientist
